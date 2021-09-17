@@ -17,9 +17,9 @@ The script uses multiple processes (10) with each process running through 10,000
 
 1. TLD - (Top Level Domain .gov)
 
-2. ** US domains only ** - TLD1 - (TLD - Country Codes)
+2. **US domains only** - TLD1 - (TLD - Country Codes)
 
-3. ** In-Progress ** - SubDomain - (Subdomain of organization)
+3. **In-Progress** - SubDomain - (Subdomain of organization)
 
 4. Domain - (registered domain name of organization)
 
