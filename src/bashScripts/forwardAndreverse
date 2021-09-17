@@ -1,0 +1,5 @@
+#!/bin/bash
+
+
+#The first argument is the domain to get just an IP address
+dig $1 +short
